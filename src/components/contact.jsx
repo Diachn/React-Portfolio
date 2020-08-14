@@ -86,6 +86,22 @@ export class Contact extends Component {
                   {this.props.data ? this.props.data.email : "loading"}
                 </p>
               </div>
+              <div className="contact-item">
+                <p>
+                  <span>
+                    <i className="fa fa-github"></i> GitHub
+                  </span>{" "}
+                  {this.props.data ? this.props.data.github : "loading"}
+                </p>
+              </div>
+              <div className="contact-item">
+                <p>
+                  <span>
+                    <i className="fa fa-linkedin-square"></i> LinkedIn
+                  </span>{" "}
+                  {this.props.data ? this.props.data.linkedin : "loading"}
+                </p>
+              </div>
             </div>
             
           </div>
