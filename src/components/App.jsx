@@ -12,7 +12,7 @@ export class App extends Component {
   }
   getResumeData(){
     $.ajax({
-      url:'/data.json',
+      url:'./resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -37,7 +37,6 @@ export class App extends Component {
         <About  data={this.state.resumeData.About}/>
         <Gallery />
         <Contact  data={this.state.resumeData.Contact}/>
-        <Router/>
       </div>
     )
   }
