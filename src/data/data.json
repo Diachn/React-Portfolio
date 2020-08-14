@@ -1,0 +1,18 @@
+{
+    "Header": {
+
+        "title": "I am a Full-Stack Web Developer"
+        
+
+    },
+    "About": {
+        "paragraph": "Hi everyone! Welcome to my portfolio. I was born in Alameda CA in 1997. My family then decided to move to Guam when I was just six months old. Therefore, I was raised on Guam my whole life until 2019. On January 2019, I decided to leave my whole life behind on Guam and move to San Diego to start a new one. Life on Guam was not bad at all but I just got a little bored of the island and wanted to see what the rest of the world had to offer. It was the biggest and best risk I have ever taken. I do not regret my decision at all. It has been a year since I moved to San Diego and I am enjoing every second of it. I do admit that I spent my whole first year just partying out here and enjoying life. Then I realized that I had to grow up. Fast fowarding to the year 2020 and I must say, it has been hectic with everything going on right now. I was in quarantine for two months due to the global pandemic. At first, I was not happy about it because I could not hang out with my friends or go to work as a waitress. Then I started to focus on myself more during all the free time I had and realized that this is the perfect time to try something new and better myself. So here I am taking this bootcamp! I decided to take this coding bootcamp even though I had no coding experience. At first, I thought this program was all a scam. How am I suppose to become a web developer in just three months? Then I decided to just give it a try since I had nothing better to do during quarantine. At least I can learn something out of this other than just spending my days watching tv. Here I am now, creating my own React portfolio! I did not even know what React was or how a simple website was made when I started this class three months ago. Now I know how to do things a Full-Stack Web Developer does. So friends, this bootcamp is not a scam. If I can do it, you can too as long as you are dedicated. "
+        
+    },
+    
+    "Contact": {
+        "address": "San Diego, CA 92123 ",
+        "phone": "+1 123 456 7890",
+        "email": "Diana@gmail.com"
+    }
+}
